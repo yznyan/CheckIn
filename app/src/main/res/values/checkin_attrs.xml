@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CheckInView">
+        <!--显示分割线-->
+        <attr name="show_line" format="boolean" />
+        <!--显示头部皇冠-->
+        <attr name="show_crown" format="boolean" />
+        <!--显示天数-->
+        <attr name="show_day" format="boolean" />
+        <!--是否已签到 -->
+        <attr name="checked" format="boolean" />
+        <attr name="day" format="string" />
+    </declare-styleable>
+
+</resources>
